@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebf0102f5c3c574191ffcdde93d9b27, type: 3}
+  m_Name: Equipments
+  m_EditorClassIdentifier: 
+  skinData:
+  - {fileID: 2100000, guid: c242b45979bd64d438ea16848ce08437, type: 2}
+  - {fileID: 2100000, guid: 5a34a002452268246b32d29c552fa93b, type: 2}
+  - {fileID: 2100000, guid: 76d70a3fcf989c84ab057e13583c2fac, type: 2}
+  - {fileID: 2100000, guid: 714c3572e09359e41bbb4f659121616a, type: 2}
+  - {fileID: 2100000, guid: 4b8fb67f86614e847af3934b10dfc7d2, type: 2}
+  - {fileID: 2100000, guid: e3f26da0b4624024ab0862271c8ba399, type: 2}
+  - {fileID: 2100000, guid: 255a9539bc0b5f64387bea9513c105e7, type: 2}
+  - {fileID: 2100000, guid: cf3df218a62eb9d40ac393cc29ca6015, type: 2}
+  - {fileID: 2100000, guid: 7160387f501b6474a8d42e0c0d8d9492, type: 2}
+  pantData:
+  - {fileID: 2100000, guid: b72279e579901e7448091e243e3f5d2f, type: 2}
+  - {fileID: 2100000, guid: 017b36a8268a392479f6ae6a006b847f, type: 2}
+  - {fileID: 2100000, guid: 1290244c6c6c5974daa653be3f2e4e15, type: 2}
+  - {fileID: 2100000, guid: 56d548ae2b9c31d459476eb051efb1e3, type: 2}
+  - {fileID: 2100000, guid: da50917782ddb57469b549859cb9b2d0, type: 2}
+  - {fileID: 2100000, guid: 1dd3c1f12db52414080b6ae722242501, type: 2}
+  - {fileID: 2100000, guid: 92f712026d44f074ba74eeb8ca721394, type: 2}
+  - {fileID: 2100000, guid: 9f980803b1e2c5e408a3e7e3cd635a7c, type: 2}
+  - {fileID: 2100000, guid: a8b7c177a78952f4c9dde36765732bbc, type: 2}
+  - {fileID: 2100000, guid: d58cb5c71a8646548a4c02bebaf88b90, type: 2}
+  hairData:
+  - {fileID: 6559220658523745405, guid: 6f749811c1a88d3478e3c78d8f216206, type: 3}
+  - {fileID: 6107435635584819304, guid: 8783a7256b4665546bcb1ad64a921f48, type: 3}
+  - {fileID: 8815325996761179282, guid: 10f5e9a531f278840bf7490f06f3869e, type: 3}
+  - {fileID: 972358695235803481, guid: 8d23dfc1616f1384395e9301cf1737c5, type: 3}
+  - {fileID: 7430400746083385618, guid: e22685fc8fc6cb24a830695ff76c2f5f, type: 3}
+  - {fileID: 1296734315010925932, guid: 01da16a81eccc85409a60e3b240321b9, type: 3}
+  - {fileID: 4142066709476047381, guid: 24cc2f76ac5541d4ba6209943a0dd27c, type: 3}
+  - {fileID: 6052021752425608612, guid: 4f38262e04530074b8296d0727b28311, type: 3}
+  - {fileID: 9072467263012174846, guid: 856691dd035476e4c8564bfcf4a4ffe2, type: 3}
+  shielData:
+  - {fileID: 7787301896126354297, guid: 9ae812e196ec8134bb56b3c3e7b68a2d, type: 3}
+  - {fileID: 4360485157548186139, guid: 64e5d130d183c68418634dfa021c3fae, type: 3}
+  weaponData:
+  - {fileID: 7617135302415384309, guid: cf22f806d5d104541b22234a581f4bd4, type: 3}
+  - {fileID: 1789222173513647664, guid: 39c6d9e09f7b0bb4ea392f39f9283b87, type: 3}
+  - {fileID: 578631741777409948, guid: 58b679a87e34cc64c80f1145e575c475, type: 3}
+  - {fileID: 4147717546505501791, guid: f367adc466ad34d42b6919e755e11e55, type: 3}
+  - {fileID: 8132417607501331244, guid: c36bc56d13c46fa419f75e3a619aae79, type: 3}
+  - {fileID: 5904215469841830291, guid: a3da18cbd1a450b46a1123e23c5ef68a, type: 3}
+  - {fileID: 4828111646319562538, guid: 0f224aa91c9059949865231cf33ec0a4, type: 3}
+  - {fileID: 1148441274386603156, guid: 92593715042fccb46a009f31174c9b22, type: 3}
